@@ -84,12 +84,13 @@ System Gamelist
          <primaryColor>fa1ed4</primaryColor>
          <secondaryColor>fa1ed4</secondaryColor>
          <fontPath>./_inc/fonts/OpenSans-Bold.ttf</fontPath>
-         <fontSize>0.037</fontSize>
+         <fontSize>0.028</fontSize>
          <forceUppercase>1</forceUppercase>
          <scrollSound></scrollSound>
+		 <lineSpacing>1.0</lineSpacing> 
          <alignment>left</alignment>      
       </textlist>
-   </view>   
+   </view> 
     
 <!--
 Metadata, description, rating etc
